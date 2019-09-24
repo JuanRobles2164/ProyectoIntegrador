@@ -1,0 +1,9 @@
+C:\Users\USUARIO\source\repos\GEASoftware\GEASoftware\obj\Debug\GEASoftware.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\GEASoftware\GEASoftware\obj\Debug\GEASoftware.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\GEASoftware\GEASoftware\obj\Debug\GEASoftware.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\GEASoftware\GEASoftware\obj\Debug\GEASoftware.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\GEASoftware\GEASoftware\bin\Debug\GEASoftware.exe.config
+C:\Users\USUARIO\source\repos\GEASoftware\GEASoftware\bin\Debug\GEASoftware.exe
+C:\Users\USUARIO\source\repos\GEASoftware\GEASoftware\bin\Debug\GEASoftware.pdb
+C:\Users\USUARIO\source\repos\GEASoftware\GEASoftware\obj\Debug\GEASoftware.exe
+C:\Users\USUARIO\source\repos\GEASoftware\GEASoftware\obj\Debug\GEASoftware.pdb
